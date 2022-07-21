@@ -10,8 +10,8 @@
 
 &nbsp;\
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&link=https://github.com/micha-llnsk)](https://github.com/micha-llnsk)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-pagels-658169203/)](https://www.linkedin.com/in/martin-pagels-658169203)
-[![Xing Badge](https://img.shields.io/badge/Xing-026466?style=flat-square&logo=Xing&logoColor=white&link=https://www.xing.com/profile/Martin_Pagels/cv)](https://www.xing.com/profile/Martin_Pagels/cv)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-lulinski-b42280246/)](https://www.linkedin.com/in/michael-lulinski-b42280246/)
+[![Xing Badge](https://img.shields.io/badge/Xing-026466?style=flat-square&logo=Xing&logoColor=white&link=https://www.xing.com/profile/Michael_Lulinski/cv)](https://www.xing.com/profile/Michael_Lulinski/cv)
 [![GMX Badge](https://img.shields.io/badge/-GMX-d14836?style=flat-square&logo=GMX&logoColor=white&link=mailto:michael.lulinski@gmx.de)](mailto:michael.lulinski@gmx.de)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Micha-Llnsk&langs_count=10&layout=compact&count_private=true&include_all_commits=true&theme=cobalt)
